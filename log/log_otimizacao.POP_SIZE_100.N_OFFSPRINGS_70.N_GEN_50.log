@@ -2,7 +2,7 @@
 [OTIMIZACAO][PARAMETROS][QUANTIDADE_DESCENDENTES]=70
 [OTIMIZACAO][PARAMETROS][QUANTIDADE_GERACOES_TERMINO_OTIMIZACAO]=50
 
-[OTIMIZACAO][INICIO]=2024-02-07 21:54:37.110381
+[OTIMIZACAO][INICIO]=2024-03-08 20:49:20.892026
 
 ==========================================================
 n_gen  |  n_eval  | n_nds  |      eps      |   indicator  
@@ -59,4 +59,4 @@ n_gen  |  n_eval  | n_nds  |      eps      |   indicator
     50 |     3530 |     51 |  0.0026177398 |             f
 
 
-[OTIMIZACAO][FIM]=2024-02-07 21:54:44.058975
+[OTIMIZACAO][FIM]=2024-03-08 20:49:39.889459
