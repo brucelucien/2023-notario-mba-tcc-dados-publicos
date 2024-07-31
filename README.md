@@ -1,6 +1,6 @@
-# 2024. Notario, Bruce. Trabalho de Conclusão de Curso. MBA em Ciências de Dados.
+# 2024. NOTARIO, Bruce. Trabalho de Conclusão de Curso. MBA em Ciências de Dados. ICMC/USP.
 
-Repositório de dados públicos associados ao [Trabalho de Conclusão de Curso (TCC)](tcc/2024_NOTARIO_MBA_TCC.pdf) do MBA em Ciências de Dados iniciado por Bruce Notario no ano de 2023 e concluído em 2024.
+Repositório de dados públicos associados ao [Trabalho de Conclusão de Curso (TCC)](tcc/2024_NOTARIO_MBA_TCC.pdf) de **Bruce Notario**; referente ao **MBA em Ciências de Dados** do ICMC/USP, cursado nos anos de 2023 e 2024.
 
 ## Dados públicos
 
