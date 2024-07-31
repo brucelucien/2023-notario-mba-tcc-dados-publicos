@@ -1,6 +1,6 @@
 # 2023. Notario, Bruce. Trabalho de Conclusão de Curso. MBA em Ciências de Dados.
 
-Repositório de dados públicos associados ao Trabalho de Conclusão de Curso (TCC) do MBA em Ciências de Dados iniciado por Bruce Notario no ano de 2023.
+Repositório de dados públicos associados ao [Trabalho de Conclusão de Curso (TCC)](tcc/2024_NOTARIO_MBA_TCC.pdf) do MBA em Ciências de Dados iniciado por Bruce Notario no ano de 2023.
 
 ## Dados públicos
 
